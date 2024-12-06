@@ -9,3 +9,7 @@ Version 1.0 supports the following Linux distros:
 - Arch Linux
 - OpenSUSE
 - Fedora
+
+# GET IN TOUCH WITH THE TEAM!
+For suggestions and help, send an email to:
+- edsamarvall@thattechguy.ct.ws
