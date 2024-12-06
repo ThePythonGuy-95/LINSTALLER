@@ -1,0 +1,19 @@
+LINSTALLER VERSION 1.0
+
+
+LINSTALLER is an utility that makes it easier to get ISOs for various Linux distros. 
+
+
+
+GENERAL INSTRUCTIONS:
+
+- Here you will find two folders; Executable (Windows) and Python File (Linux & MacOS). 
+- For Windows users, there is a direct .EXE file you can use to launch the utility.
+- For Linux & MacOS, an installation of Python 3 will be required on your device. Then, run the file (Directly from the file or use the Terminal).
+
+
+
+NEED HELP? WANT TO SUGGEST SOMETHING? 
+
+Feel free to send an email to the following address for assistance and suggestions!
+- edsamarvall@thattechguy.ct.ws
