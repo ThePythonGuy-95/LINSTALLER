@@ -12,4 +12,5 @@ Version 1.0 supports the following Linux distros:
 
 # GET IN TOUCH WITH THE TEAM!
 For suggestions and help, send an email to:
-- thattechguy@thetechsite.ct.ws
+- thattechguy.llc24@gmail.com
+
