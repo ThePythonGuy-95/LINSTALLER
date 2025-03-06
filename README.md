@@ -2,7 +2,7 @@
 An utility to install ISOs for various Linux distros easily.
 
 # SUPPORTED DISTROS
-Version 1.0 supports the following Linux distros:
+Version 1.5 supports the following Linux distros:
 - Ubuntu
 - Debian
 - Linux Mint
